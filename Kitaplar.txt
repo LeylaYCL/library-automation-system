@@ -1,0 +1,20 @@
+1001	Sefiller	Victor Hugo	5
+1002	Suç ve Ceza	Fyodor Dostoyevski	3
+1003	Simyacı	Paulo Coelho	4
+1004	Satranç	Stefan Zweig	2
+1005	Küçük Prens	Antoine de Saint-Exupéry	1
+1006	İki Şehrin Hikayesi	Charles Dickens	4
+1007	Hobbit	J. R. R. Tolkien	3
+1008	Simyacı	Paulo Coelho	2
+1009	Martı Jonathan Livingston	Richard Bach	5
+1010	Savaş ve Barış	Leo Tolstoy	2
+1011	Gazap Üzümleri	John Steinbeck	8
+1012	İnsan Neyle Yaşar	Lev Tolstoy	1
+1013	Beyaz Zambaklar Ülkesinde	Grigori Petrov	2
+1014	Üç Silahşörler	Alexandre Dumas	4
+1015	Nefes Almak İçin	George Orwell	6
+1016	Oliver Twist	Charles Dickens	3
+1017	Moby Dick	Herman Melville	4
+1018	Beyaz Diş	Jack London	2
+1019	Nutuk	Mustafa Kemal Atatürk	9
+1020	Devlet	Platon	1
